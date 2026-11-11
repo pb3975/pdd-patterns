@@ -1,6 +1,6 @@
 # PDD patterns
 
-**Private review collection. Public release requires Will's approval.**
+Released under the [MIT license](LICENSE). Companion to the field guide at [proofdrivendevelopment.org](https://proofdrivendevelopment.org).
 
 Small proof-driven development patterns, runnable examples, an agent skill, and standalone starter templates. Verification applies to named properties, under stated assumptions. It is not a certification of this repository or an application.
 
@@ -58,4 +58,4 @@ Proofs require maintenance when requirements, code, dependencies, or checker ver
 
 [Requirements](PRD.md) · [Decisions](docs/decisions.md) · [Verification evidence](docs/verification.md)
 
-Public release is still held. The proposed reuse license is MIT. Review [the release proposal](docs/release.md) before approving publication.
+Released under the [MIT license](LICENSE) on November 11, 2026. Dependency and tool licenses remain separate.
