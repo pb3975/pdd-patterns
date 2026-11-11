@@ -1,8 +1,10 @@
-# Public release proposal
+# Public release
+
+Released on November 11, 2026, under the MIT license in [LICENSE](../LICENSE). The sections below record the release process.
 
 This repository stays private until Will approves making the reviewed collection and its Git history public. Approval of this collection does not authorize website hosting. The website remains offline until Vercel credentials and launch approval are provided.
 
-The proposed reuse license is MIT. The text in [LICENSE-MIT.proposed](LICENSE-MIT.proposed) is prepared for review. On approval, move it to the repository's top-level `LICENSE` file. Dependency licenses remain separate.
+The proposed reuse license is MIT. The approved text is the top-level `LICENSE` file. Dependency licenses remain separate.
 
 Before requesting approval:
 

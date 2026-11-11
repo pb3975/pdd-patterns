@@ -1,6 +1,6 @@
 # Requirements
 
-Provide a small reusable collection of PDD patterns, working examples, agent guidance, and standalone starters. Keep this repository private until Will approves public release. Keep the website offline until Vercel credentials are provided.
+Provide a small reusable collection of PDD patterns, working examples, agent guidance, and standalone starters. The repository is public under the MIT license. Never deploy the website from this repository.
 
 Each verified example must name its specification, preconditions, exact tool version, proof scope, and meaningful semantic negative control. A starter must work when copied outside this repository. Skills are behavioral guidance, not formally proved software. Untested artifacts must be marked as drafts.
 
