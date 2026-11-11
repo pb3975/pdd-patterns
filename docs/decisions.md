@@ -18,4 +18,4 @@ Review found that bound plus idempotence also permits constant zero. Preserve bo
 
 ## 2026-11-11: Inbox: proof-driven-development/public-release
 
-Will approved public release under the MIT license: "Publish under MIT." The reviewed candidate is commit 2a6e482bf53d82d8a6910c99da7be160f56bf1ab, merged to `main` as dac6cd7. Its CI was rerun and passed on November 11, 2026. The proposed license text moves to `LICENSE` unchanged. A scan of the full history found no credentials. The website links this repository. Will asked to keep the website's source repository private, so this repository no longer links to it.
+Will approved public release under the MIT license: "Publish under MIT." The reviewed candidate is commit 2a6e482bf53d82d8a6910c99da7be160f56bf1ab, merged to `main` as dac6cd7. Its CI was rerun and passed on November 11, 2026. The proposed license text moves to `LICENSE` unchanged. A scan of the full history found no credentials. The website links this repository. Will asked to keep the website's source repository private, so this repository does not link to it.
